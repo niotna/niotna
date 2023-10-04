@@ -13,6 +13,6 @@ I'm Antoine, a passionate Web Developer from France.
 
 <img src="https://github-profile-trophy.vercel.app/?username=niotna&theme=juicyfresh&no-bg=true" />
 
-## :rocket: A joke ? : 
+## :rocket: A random joke ? : 
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
