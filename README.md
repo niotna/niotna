@@ -7,8 +7,9 @@ I'm Antoine, a passionate Web Developer from France.
 
 ## :rocket: Stats (seriously, who doesn't like stats ??) : 
 
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niotna)](https://github.com/anuraghazra/github-readme-stats) 
-
+-->
 <img src="https://myreadme.vercel.app/api/embed/niotna?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=niotna&theme=juicyfresh&no-bg=true" />
