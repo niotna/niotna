@@ -12,6 +12,8 @@ I'm Antoine, a passionate Web Developer from France.
 -->
 <img src="https://myreadme.vercel.app/api/embed/niotna?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <img src="https://github-profile-trophy.vercel.app/?username=niotna&theme=juicyfresh&no-bg=true" />
 
 ## :rocket: A random joke ? : 
