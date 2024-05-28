@@ -16,6 +16,9 @@ I'm Antoine, a passionate Web Developer from France.
 
 <img src="https://github-profile-trophy.vercel.app/?username=niotna&theme=juicyfresh&no-bg=true" />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## :stuck_out_tongue_winking_eye: A random joke ? : 
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
