@@ -16,6 +16,8 @@ I'm Antoine, a passionate Web Developer from France.
 
 <img src="https://github-profile-trophy.vercel.app/?username=niotna&theme=juicyfresh&no-bg=true" />
 
+## :zap: Private stats (about my personal or professional projects) : 
+
 <!--START_SECTION:waka-->
 
 ```txt
