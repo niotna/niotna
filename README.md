@@ -17,6 +17,15 @@ I'm Antoine, a passionate Web Developer from France.
 <img src="https://github-profile-trophy.vercel.app/?username=niotna&theme=juicyfresh&no-bg=true" />
 
 <!--START_SECTION:waka-->
+
+```txt
+PHP            6 hrs 22 mins   █████████████▓░░░░░░░░░░░   54.96 %
+SQL            3 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   28.07 %
+JSON           1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+CSV/TSV        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Text           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+```
+
 <!--END_SECTION:waka-->
 
 ## :stuck_out_tongue_winking_eye: A random joke ? : 
