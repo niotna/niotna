@@ -10,24 +10,24 @@ I'm Antoine, a passionate Web Developer from France.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 24 June 2024
+From: 19 April 2022 - To: 25 June 2024
 
-Total Time: 1,616 hrs 16 mins
+Total Time: 1,619 hrs 42 mins
 
-PHP                        967 hrs 21 mins ███████████████░░░░░░░░░░   59.85 %
-Twig                       140 hrs 8 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-SQL                        77 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-JSON                       77 hrs 16 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-YAML                       59 hrs 34 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-HTML                       53 hrs 40 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-JavaScript                 52 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+PHP                        970 hrs 21 mins ███████████████░░░░░░░░░░   59.91 %
+Twig                       140 hrs 8 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+JSON                       77 hrs 38 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+SQL                        77 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+YAML                       59 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+HTML                       53 hrs 40 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+JavaScript                 52 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 XML                        27 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 Markdown                   22 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 Python                     20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 Smarty                     19 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 .env file                  11 hrs 28 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 Text                       10 hrs 40 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-HTTP Request               10 hrs 25 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+HTTP Request               10 hrs 25 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 Bash                       9 hrs 34 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 CSS                        7 hrs 33 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 Makefile                   6 hrs 58 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
