@@ -10,24 +10,24 @@ I'm Antoine, a passionate Web Developer from France.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 17 July 2024
+From: 19 April 2022 - To: 18 July 2024
 
-Total Time: 1,670 hrs 5 mins
+Total Time: 1,674 hrs 17 mins
 
-PHP                        1,001 hrs 25 mins███████████████░░░░░░░░░░   59.96 %
-Twig                       141 hrs 15 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-JSON                       86 hrs 27 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-SQL                        82 hrs 3 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-YAML                       62 hrs 45 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+PHP                        1,003 hrs 57 mins███████████████░░░░░░░░░░   59.96 %
+Twig                       141 hrs 15 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+JSON                       86 hrs 37 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+SQL                        83 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+YAML                       62 hrs 45 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 HTML                       53 hrs 40 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 JavaScript                 52 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-XML                        27 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+XML                        27 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 Markdown                   22 hrs 25 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 Python                     20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 Smarty                     19 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 .env file                  11 hrs 28 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 Text                       10 hrs 43 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-HTTP Request               10 hrs 36 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+HTTP Request               10 hrs 36 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 Bash                       9 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 Makefile                   8 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 CSS                        7 hrs 34 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
