@@ -10,23 +10,23 @@ I'm Antoine, a passionate Web Developer from France.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 06 August 2024
+From: 19 April 2022 - To: 07 August 2024
 
-Total Time: 1,702 hrs 16 mins
+Total Time: 1,704 hrs 8 mins
 
-PHP                        1,018 hrs 38 mins███████████████░░░░░░░░░░   59.84 %
-Twig                       142 hrs 34 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-SQL                        90 hrs 49 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-JSON                       89 hrs 31 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-YAML                       63 hrs 30 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+PHP                        1,020 hrs 13 mins███████████████░░░░░░░░░░   59.87 %
+Twig                       142 hrs 41 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+SQL                        90 hrs 49 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+JSON                       89 hrs 33 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+YAML                       63 hrs 36 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 HTML                       53 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-JavaScript                 52 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+JavaScript                 52 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 XML                        27 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 Markdown                   22 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 Python                     20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 Smarty                     19 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+HTTP Request               11 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 .env file                  11 hrs 28 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-HTTP Request               11 hrs 27 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 Text                       10 hrs 45 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 Bash                       9 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 Makefile                   8 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
