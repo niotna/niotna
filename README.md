@@ -10,23 +10,23 @@ I'm Antoine, a passionate Web Developer from France.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 08 September 2024
+From: 19 April 2022 - To: 09 September 2024
 
-Total Time: 1,723 hrs 18 mins
+Total Time: 1,726 hrs 9 mins
 
-PHP                        1,035 hrs 25 mins███████████████░░░░░░░░░░   60.08 %
-Twig                       143 hrs 10 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
-JSON                       91 hrs 13 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-SQL                        90 hrs 58 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-YAML                       63 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-HTML                       53 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-JavaScript                 52 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-XML                        27 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+PHP                        1,037 hrs 46 mins███████████████░░░░░░░░░░   60.12 %
+Twig                       143 hrs 10 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+JSON                       91 hrs 18 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+SQL                        90 hrs 58 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+YAML                       64 hrs 7 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+HTML                       53 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+JavaScript                 52 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+XML                        27 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 Markdown                   22 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 Python                     20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Smarty                     19 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-HTTP Request               12 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-.env file                  11 hrs 28 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Smarty                     19 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+HTTP Request               12 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+.env file                  11 hrs 28 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 Text                       11 hrs 2 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 Bash                       9 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 Makefile                   8 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
