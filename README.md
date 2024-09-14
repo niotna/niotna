@@ -10,20 +10,20 @@ I'm Antoine, a passionate Web Developer from France.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 12 September 2024
+From: 19 April 2022 - To: 13 September 2024
 
-Total Time: 1,735 hrs 10 mins
+Total Time: 1,737 hrs 59 mins
 
-PHP                        1,043 hrs 58 mins███████████████░░░░░░░░░░   60.17 %
-Twig                       143 hrs 10 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-JSON                       91 hrs 42 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-SQL                        91 hrs 13 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-YAML                       65 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+PHP                        1,046 hrs 19 mins███████████████░░░░░░░░░░   60.20 %
+Twig                       143 hrs 10 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+JSON                       91 hrs 46 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+SQL                        91 hrs 36 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+YAML                       65 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 HTML                       53 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-JavaScript                 52 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+JavaScript                 52 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 XML                        27 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 Markdown                   22 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Python                     20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Python                     20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 Smarty                     19 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 HTTP Request               13 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 .env file                  11 hrs 28 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
