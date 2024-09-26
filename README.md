@@ -10,22 +10,22 @@ I'm Antoine, a passionate Web Developer from France.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 24 September 2024
+From: 19 April 2022 - To: 25 September 2024
 
-Total Time: 1,752 hrs 52 mins
+Total Time: 1,757 hrs 52 mins
 
-PHP                        1,057 hrs 17 mins███████████████░░░░░░░░░░   60.32 %
-Twig                       144 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-JSON                       92 hrs 45 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-SQL                        91 hrs 38 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-YAML                       65 hrs 33 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-HTML                       53 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-JavaScript                 52 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-XML                        27 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+PHP                        1,061 hrs 16 mins███████████████░░░░░░░░░░   60.37 %
+Twig                       144 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+JSON                       92 hrs 47 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+SQL                        91 hrs 56 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+YAML                       65 hrs 33 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+HTML                       53 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+JavaScript                 52 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+XML                        27 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 Markdown                   22 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 Python                     20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Smarty                     19 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-HTTP Request               13 hrs 47 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Smarty                     19 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+HTTP Request               14 hrs 24 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 .env file                  11 hrs 28 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 Text                       11 hrs 27 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 Bash                       9 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
