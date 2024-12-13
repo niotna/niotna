@@ -10,16 +10,16 @@ I'm Antoine, a passionate Web Developer from France.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 11 December 2024
+From: 19 April 2022 - To: 12 December 2024
 
-Total Time: 1,869 hrs 52 mins
+Total Time: 1,873 hrs 53 mins
 
-PHP                        1,137 hrs 47 mins███████████████▒░░░░░░░░░   60.85 %
-Twig                       144 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-SQL                        106 hrs 27 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-HTML                       53 hrs 58 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-JavaScript                 52 hrs 38 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-XML                        27 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+PHP                        1,140 hrs 17 mins███████████████▒░░░░░░░░░   60.85 %
+Twig                       144 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+SQL                        106 hrs 32 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+HTML                       54 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+JavaScript                 52 hrs 38 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+XML                        27 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 Markdown                   22 hrs 42 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 Python                     20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 Smarty                     19 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
