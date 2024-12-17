@@ -10,22 +10,22 @@ I'm Antoine, a passionate Web Developer from France.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 15 December 2024
+From: 19 April 2022 - To: 16 December 2024
 
-Total Time: 1,875 hrs 16 mins
+Total Time: 1,879 hrs 27 mins
 
-PHP                        1,141 hrs       ███████████████▒░░░░░░░░░   60.84 %
-Twig                       144 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-SQL                        106 hrs 35 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-HTML                       54 hrs 58 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-JavaScript                 52 hrs 39 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-XML                        28 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+PHP                        1,142 hrs 26 mins███████████████▒░░░░░░░░░   60.79 %
+Twig                       144 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+SQL                        106 hrs 35 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+HTML                       56 hrs 26 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+JavaScript                 52 hrs 39 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+XML                        28 hrs 14 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 Markdown                   22 hrs 42 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Python                     20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Python                     20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 Smarty                     19 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 HTTP Request               17 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Text                       15 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Makefile                   11 hrs 43 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Text                       16 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Makefile                   11 hrs 43 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 .env file                  11 hrs 28 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 Bash                       9 hrs 43 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 CSS                        7 hrs 34 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
