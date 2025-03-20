@@ -10,21 +10,21 @@ I'm Antoine, a passionate Web Developer from France.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 18 March 2025
+From: 19 April 2022 - To: 19 March 2025
 
-Total Time: 1,904 hrs 56 mins
+Total Time: 1,908 hrs 51 mins
 
-PHP                        1,152 hrs 48 mins███████████████░░░░░░░░░░   60.52 %
-Twig                       144 hrs 52 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-SQL                        107 hrs 49 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-HTML                       58 hrs 19 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-JavaScript                 52 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-XML                        31 hrs 55 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Markdown                   22 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+PHP                        1,155 hrs 4 mins███████████████░░░░░░░░░░   60.51 %
+Twig                       144 hrs 52 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+SQL                        107 hrs 49 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+HTML                       59 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+JavaScript                 52 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+XML                        31 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Markdown                   22 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 Python                     20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 Smarty                     19 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Text                       18 hrs 18 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-HTTP Request               17 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Text                       18 hrs 19 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+HTTP Request               17 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 Makefile                   13 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 .env file                  11 hrs 39 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 Bash                       9 hrs 44 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
