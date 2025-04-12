@@ -10,25 +10,25 @@ I'm Antoine, a passionate Web Developer from France.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 10 April 2025
+From: 19 April 2022 - To: 11 April 2025
 
-Total Time: 1,935 hrs 14 mins
+Total Time: 1,938 hrs 14 mins
 
-PHP                        1,175 hrs 37 mins███████████████▒░░░░░░░░░   60.75 %
-Twig                       148 hrs 43 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-SQL                        108 hrs         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-HTML                       60 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-JavaScript                 52 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+PHP                        1,176 hrs 32 mins███████████████▒░░░░░░░░░   60.70 %
+Twig                       150 hrs 47 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+SQL                        108 hrs         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+HTML                       60 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+JavaScript                 52 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 XML                        31 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Markdown                   22 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Markdown                   22 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 Python                     20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Smarty                     19 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Smarty                     19 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 Text                       18 hrs 24 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 HTTP Request               17 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 Makefile                   13 hrs 28 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 .env file                  12 hrs 5 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 Bash                       9 hrs 53 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-CSS                        7 hrs 34 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+CSS                        7 hrs 35 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 TypeScript                 6 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 Docker                     5 hrs 46 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 SCSS                       5 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
