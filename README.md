@@ -10,7 +10,7 @@ I'm Antoine, a passionate Web Developer from France.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 19 January 2026
+From: 19 April 2022 - To: 20 January 2026
 
 Total Time: 1,957 hrs 56 mins
 
