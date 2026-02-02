@@ -10,29 +10,15 @@ I'm Antoine, a passionate Web Developer from France.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2022 - To: 01 February 2026
+From: 01 February 2025 - To: 01 February 2026
 
-Total Time: 1,964 hrs 2 mins
+Total Time: 67 hrs 16 mins
 
-PHP                        1,188 hrs 41 mins███████████████░░░░░░░░░░   60.52 %
-Twig                       158 hrs 41 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-SQL                        108 hrs 11 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-HTML                       60 hrs 22 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-JavaScript                 54 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-XML                        31 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Markdown                   22 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Python                     20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Text                       19 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Smarty                     19 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-HTTP Request               17 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Makefile                   13 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-.env file                  12 hrs 15 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Bash                       9 hrs 58 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-CSS                        9 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-TypeScript                 6 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Docker                     5 hrs 46 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-SCSS                       5 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Other                      4 hrs 45 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+PHP               40 hrs 28 mins  ███████████████░░░░░░░░░░   60.17 %
+Twig              13 hrs 48 mins  █████░░░░░░░░░░░░░░░░░░░░   20.54 %
+HTML              3 hrs 47 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+JavaScript        1 hr 56 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+CSS               1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
