@@ -10,14 +10,14 @@ I'm Antoine, a passionate Web Developer from France.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2025 - To: 13 April 2026
+From: 14 April 2025 - To: 14 April 2026
 
-Total Time: 183 hrs 34 mins
+Total Time: 182 hrs 43 mins
 
-PHP              116 hrs 25 mins       ████████████████░░░░░░░░░   63.42 %
-Twig             13 hrs 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-JavaScript       7 hrs 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-.env file        6 hrs 1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+PHP              118 hrs 23 mins       ████████████████▒░░░░░░░░   64.79 %
+Twig             11 hrs 3 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+JavaScript       7 hrs 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+.env file        6 hrs 1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
